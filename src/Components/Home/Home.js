@@ -17,11 +17,9 @@ const Home = () => {
           Cable Payment AT BEST POSSIBLE PRICE WITHOUT COMPROMISING QUALITY.
         </p>
 
-        <a href="https://wa.me/234903639739">
+        <a href="https://wa.me/2349036398739">
           <button className="ml-5 text-2xl bg-white text-gray-500 px-5 py-1 rounded shadow-lg mt-20 font-bold flex items-center gap-2">
             <IoChatbubbleEllipsesOutline />
-
-            <h1>MESSAGE US</h1>
           </button>
         </a>
       </div>
