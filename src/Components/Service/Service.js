@@ -14,11 +14,6 @@ const Service = () => {
         <img src={GLO} alt="" className="ml-32 shadow-xl" />
         <img src={MOBILE} alt="" className="ml-32 shadow-xl" />
       </div>
-      <div className="text-center">
-        <button className="bg-gray-200 px-3 py-1 rounded shadow-xl text-xl font-semibold my-10 lg:ml-10 text-gray-700">
-          MESSAGE US!
-        </button>
-      </div>
     </div>
   );
 };

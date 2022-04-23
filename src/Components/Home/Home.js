@@ -20,6 +20,7 @@ const Home = () => {
         <a href="https://wa.me/2349036398739">
           <button className="ml-5 text-2xl bg-white text-gray-500 px-5 py-1 rounded shadow-lg mt-20 font-bold flex items-center gap-2">
             <IoChatbubbleEllipsesOutline />
+            <h1>Message us</h1>
           </button>
         </a>
       </div>
